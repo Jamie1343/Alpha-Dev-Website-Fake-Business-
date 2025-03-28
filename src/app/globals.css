@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+  width: viewport-width;
+}
+
+body {
+  background: white;
+  color: black;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  @apply lg:text-7xl;
+}
+
+h2 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  @apply lg:text-5xl;
+}
+
+h3 {
+  font-size: 1.3rem;
+  font-weight: bold;
+  @apply lg:text-2xl;
+}
+
+body {
+  font-size: 1.2rem;
+  @apply lg:text-2xl;
+}
+
+p {
+  font-size: 1.2rem;
+  @apply lg:text-xl;
+}
+
+.info {
+  font-size: 1rem;
+  font-weight: 300;
+}
