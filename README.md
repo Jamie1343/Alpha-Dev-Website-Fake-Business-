@@ -4,8 +4,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 # Wireframe Of Site 
 
-![Wireframe](https://imagedelivery.net/QW0bMmszwT7H1KYN0qIv0Q/24bfa8da-a20e-4100-304e-1346aa0fee00/wireframe)
+![Wireframe](https://imagedelivery.net/QW0bMmszwT7H1KYN0qIv0Q/dc5aafe3-ec8d-4e63-97e9-b329ded8b400/wireframe)
 
 # Final Design File Of Site
 
-![Design](https://imagedelivery.net/QW0bMmszwT7H1KYN0qIv0Q/40b27ea5-2681-4902-62dd-d9ba83655200/design)
+![Design](https://imagedelivery.net/QW0bMmszwT7H1KYN0qIv0Q/d1e9b127-224e-4c3e-ad12-329b688c7a00/design)
